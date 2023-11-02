@@ -28,7 +28,7 @@ We have included a set of core utilities and helper classes to ease your develop
 - **Error Handling**: Handle errors gracefully throughout your application.
 
 ### Reduced Boilerplate with BLoC:
-We've incorporated BLoC (Business Logic Component) to manage state in your Flutter application. Our starter project reduces the boilerplate code associated with BLoC by providing ready-to-use templates and best practices for state management.
+We've incorporated BLoC (Business Logic Component) to manage state in your Flutter application. Our starter project reduces the boilerplate code associated with BLoC by providing ready-to-use BaseBloc implementation.
 
 ## Getting Started:
 To get started with the Flutter Starter Project, follow these steps:
